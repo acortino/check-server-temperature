@@ -38,5 +38,5 @@ $ crontab -e
 ```
 And add this to run it every 30 min:
 ```
-30 * * * * * python3 <path_to_check_temperature.py>
+30 * * * * * /usr/bin/python3 <path_to_check_temperature.py>
 ```
