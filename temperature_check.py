@@ -13,7 +13,7 @@ port = 465
 # Safety margin 
 SAFETY = 10
 # Time to sleep befor shuting down
-SLEEPY_TIME_BEFORE_SHUTDOWN = 60 * 0.1
+SLEEPY_TIME_BEFORE_SHUTDOWN = 60 * 5
 # Max temperature before you ant it shut down
 MAX_TEMPERATURE = 65
 # Mail address to send mail
